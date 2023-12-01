@@ -1,20 +1,6 @@
-.class1{
-    background-color: rgb(186, 187, 183);
-}
-.class2{
-    background-color: rgb(185, 187, 180);
-}
-.class3{
-    background-color: rgb(166, 168, 164);
-}
-.class4{
-    background-color: rgb(136, 138, 135);
-}
-.class5{
-    background-color: rgb(117, 117, 117);
-}
+
 .h1{
-    color:rgb(210, 30, 195)
+    color:rgb(147, 40, 161)
 }
 #important{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -39,3 +25,9 @@ img {
 p{
     text-align: center;
 }
+body{
+    background-color: rgb(128, 123, 137);
+}
+.table {
+    color: #000;
+  }
